@@ -1,0 +1,15 @@
+{
+  "name": "curso01",
+  "version": "1.0.0",
+  "description": "curso do bootcamp nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squintal73"
+  },
+  "author": "sidnei quintal",
+  "license": "MIT"
+}
