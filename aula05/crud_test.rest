@@ -1,0 +1,54 @@
+
+### LOCALHOST
+GET http://localhost:3000 HTTP/1.1
+
+
+
+### ADD ALL VERBS
+GET http://localhost:3000/all HTTP/1.1
+###
+POST http://localhost:3000/all HTTP/1.1
+###
+PUT http://localhost:3000/all HTTP/1.1
+###
+DELETE http://localhost:3000/all HTTP/1.1
+
+
+
+### PASSANDO PARAMS VIA BODY
+POST http://localhost:3000/test HTTP/1.1
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+
+
+### PASSANDO PARAMS ID
+GET http://localhost:3000/testeparam/2 HTTP/1.1
+
+
+### FUNCAO NEXT DENTRO DA CALLBACK
+GET http://localhost:3000/multiplehandlers HTTP/1.1
+
+
+### MULTIPLE CALLBACK ROUTERS
+GET http://localhost:3000/multiplehanderarrays HTTP/1.1
+
+
+
+### APP.ROUTE GET 
+GET http://localhost:3000/router HTTP/1.1
+
+### APP ROUTE POST 
+POST http://localhost:3000/router HTTP/1.1
+
+### APP ROUTE DELETE
+DELETE http://localhost:3000/router HTTP/1.1
+
+
+
+
+

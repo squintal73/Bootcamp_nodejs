@@ -1,0 +1,10 @@
+
+2023-06-11T01:49:54.861Z [my-app] error : Error log
+2023-06-11T01:49:54.862Z [my-app] warn : warn log
+2023-06-11T01:49:54.862Z [my-app] info : Info log
+2023-06-11T01:49:54.862Z [my-app] verbose : Verbose log
+
+2023-06-11T01:50:07.327Z [my-app] error : Error log
+2023-06-11T01:50:07.327Z [my-app] warn : warn log
+2023-06-11T01:50:07.328Z [my-app] info : Info log
+2023-06-11T01:50:07.328Z [my-app] verbose : Verbose log

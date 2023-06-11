@@ -28,7 +28,6 @@ async function init(){
 
 async function writeReadJson(){
  try {
-
         //escrita com valores iniciais 
         const arrayCarros = ['tigo', 'i35', 'toro'];
         const obj = {
