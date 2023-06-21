@@ -1,0 +1,188 @@
+2023-06-20T22:04:59.285Z [API REST] info API Started !!! 
+2023-06-20T22:06:35.439Z [API REST] info API Started !!! 
+2023-06-20T22:07:56.879Z [API REST] info API Started !!! 
+2023-06-20T22:10:02.001Z [API REST] info API Started !!! 
+2023-06-20T22:12:00.425Z [API REST] info API Started !!! 
+2023-06-20T22:12:26.138Z [API REST] error GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:12:44.643Z [API REST] error GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:12:49.042Z [API REST] error POST /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:12:53.717Z [API REST] error PUT /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:12:56.751Z [API REST] error PATCH /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:12:59.414Z [API REST] error DELETE /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:13:02.448Z [API REST] error DELETE /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:13:07.074Z [API REST] error POST /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:13:24.958Z [API REST] error GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:13:47.198Z [API REST] error GET /account - ENOENT: no such file or directory, open 'accounts.json'
+2023-06-20T22:15:46.304Z [API REST] info API Started !!! 
+2023-06-20T22:17:06.814Z [API REST] info API Started !!! 
+2023-06-20T22:18:30.590Z [API REST] info API Started !!! 
+2023-06-20T22:18:52.707Z [API REST] info API Started !!! 
+2023-06-20T22:20:19.240Z [API REST] info API Started !!! 
+2023-06-20T22:20:34.525Z [API REST] info API Started !!! 
+2023-06-20T22:22:42.419Z [API REST] info API Started !!! 
+2023-06-20T22:23:04.235Z [API REST] info [object Object]
+2023-06-20T22:23:32.340Z [API REST] info API Started !!! 
+2023-06-20T22:23:36.495Z [API REST] info {"id":18,"name":"Omarde costa","balance":4300.5}
+2023-06-20T22:24:14.371Z [API REST] info API Started !!! 
+2023-06-20T22:49:25.976Z [API REST] info API Started !!! 
+2023-06-20T22:52:30.451Z [API REST] info API Started !!! 
+2023-06-20T22:54:34.434Z [API REST] info API Started !!! 
+2023-06-20T22:56:48.197Z [API REST] info API Started !!! 
+2023-06-20T22:58:02.788Z [API REST] info API Started !!! 
+2023-06-20T23:07:49.209Z [API REST] info API Started !!! 
+2023-06-20T23:10:09.717Z [API REST] info API Started !!! 
+2023-06-20T23:11:25.142Z [API REST] error DELETE /account - data.accounts is not a function
+2023-06-20T23:14:40.335Z [API REST] error DELETE /account - data.accounts is not a function
+2023-06-20T23:19:41.381Z [API REST] info API Started !!! 
+2023-06-20T23:22:37.159Z [API REST] info API Started !!! 
+2023-06-20T23:22:39.978Z [API REST] info API Started !!! 
+2023-06-20T23:22:59.884Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:23:01.748Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:23:03.019Z [API REST] error PUT /account - loggers is not defined
+2023-06-20T23:23:05.802Z [API REST] error PATCH /account - loggers is not defined
+2023-06-20T23:23:07.938Z [API REST] error DELETE /account - loggers is not defined
+2023-06-20T23:23:14.879Z [API REST] error DELETE /account - loggers is not defined
+2023-06-20T23:23:20.805Z [API REST] error DELETE /account - loggers is not defined
+2023-06-20T23:23:25.845Z [API REST] error DELETE /account - loggers is not defined
+2023-06-20T23:25:34.842Z [API REST] info API Started !!! 
+2023-06-20T23:25:39.151Z [API REST] error DELETE /account - loggers is not defined
+2023-06-20T23:25:41.272Z [API REST] error PATCH /account - loggers is not defined
+2023-06-20T23:25:43.797Z [API REST] error PUT /account - Registro não encotrando
+2023-06-20T23:25:48.489Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:25:50.857Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:25:55.612Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:26:04.498Z [API REST] error GET /account - loggers is not defined
+2023-06-20T23:26:16.921Z [API REST] error PUT /account - loggers is not defined
+2023-06-20T23:26:21.881Z [API REST] error PATCH /account - loggers is not defined
+2023-06-20T23:26:26.462Z [API REST] error DELETE /account - loggers is not defined
+2023-06-21T00:05:31.537Z [API REST] info API Started !!! 
+2023-06-21T00:11:17.541Z [API REST] info API Started !!! 
+2023-06-21T00:11:58.138Z [API REST] info API Started !!! 
+2023-06-21T00:12:26.641Z [API REST] info API Started !!! 
+2023-06-21T00:15:00.060Z [API REST] info API Started !!! 
+2023-06-21T00:15:05.199Z [API REST] info API Started !!! 
+2023-06-21T00:15:28.044Z [API REST] info API Started !!! 
+2023-06-21T00:16:29.029Z [API REST] error GET /account - readFile is not defined
+2023-06-21T00:19:11.662Z [API REST] info API Started !!! 
+2023-06-21T00:23:41.555Z [API REST] info API Started !!! 
+2023-06-21T00:25:09.967Z [API REST] info API Started !!! 
+2023-06-21T00:28:53.626Z [API REST] info API Started !!! 
+2023-06-21T00:29:14.633Z [API REST] info API Started !!! 
+2023-06-21T00:30:32.363Z [API REST] info API Started !!! 
+2023-06-21T00:32:22.535Z [API REST] info API Started !!! 
+2023-06-21T00:42:49.014Z [API REST] info API Started !!! 
+2023-06-21T00:44:28.052Z [API REST] info API Started !!! 
+2023-06-21T00:46:46.904Z [API REST] info API Started !!! 
+2023-06-21T00:46:57.229Z [API REST] info API Started !!! 
+2023-06-21T00:47:05.745Z [API REST] error GET /account - loggers is not defined
+2023-06-21T00:47:23.127Z [API REST] error GET /account - loggers is not defined
+2023-06-21T00:47:40.071Z [API REST] error PUT /account - id is not defined
+2023-06-21T00:47:48.935Z [API REST] error PUT /account - id is not defined
+2023-06-21T00:47:53.671Z [API REST] error GET /account - loggers is not defined
+2023-06-21T00:48:09.106Z [API REST] error PUT /account - id is not defined
+2023-06-21T00:48:33.600Z [API REST] info API Started !!! 
+2023-06-21T00:48:41.475Z [API REST] error PUT /account - loggers is not defined
+2023-06-21T00:48:48.130Z [API REST] error PATCH /account - readFile is not defined
+2023-06-21T00:50:16.380Z [API REST] info API Started !!! 
+2023-06-21T00:50:22.146Z [API REST] error PATCH /account - readFile is not defined
+2023-06-21T00:50:59.940Z [API REST] info API Started !!! 
+2023-06-21T00:53:02.837Z [API REST] info API Started !!! 
+2023-06-21T00:53:06.963Z [API REST] error PATCH /account - loggers is not defined
+2023-06-21T00:53:14.648Z [API REST] error PATCH /account - loggers is not defined
+2023-06-21T00:53:19.713Z [API REST] error DELETE /account - loggers is not defined
+2023-06-21T00:53:26.313Z [API REST] error DELETE /account - loggers is not defined
+2023-06-21T00:53:32.929Z [API REST] error GET /account - loggers is not defined
+2023-06-21T00:53:34.625Z [API REST] error GET /account - loggers is not defined
+2023-06-21T01:21:07.074Z [API REST] info API Started !!! 
+2023-06-21T01:28:09.129Z [API REST] info API Started !!! 
+2023-06-21T01:28:09.732Z [API REST] info API Started !!! 
+2023-06-21T01:32:37.636Z [API REST] info API Started !!! 
+2023-06-21T01:40:17.849Z [API REST] info API Started !!! 
+2023-06-21T01:45:41.206Z [API REST] info API Started !!! 
+2023-06-21T01:53:45.894Z [API REST] info API Started !!! 
+2023-06-21T01:53:54.541Z [API REST] error GET /account - readFile is not defined
+2023-06-21T01:54:40.094Z [API REST] info API Started !!! 
+2023-06-21T01:54:47.104Z [API REST] error GET /account - accountRepositories.getAccounts is not a function
+2023-06-21T01:55:10.188Z [API REST] info API Started !!! 
+2023-06-21T01:55:15.282Z [API REST] error GET /account - loggers is not defined
+2023-06-21T01:55:28.986Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:01:42.106Z [API REST] info API Started !!! 
+2023-06-21T02:01:45.927Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:01:56.818Z [API REST] error GET /account - accountRepositories.getAccounts is not a function
+2023-06-21T02:02:02.681Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:03:27.104Z [API REST] info API Started !!! 
+2023-06-21T02:03:31.850Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:03:35.766Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:03:36.670Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:03:42.142Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:03:44.476Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:06:35.870Z [API REST] info API Started !!! 
+2023-06-21T02:06:42.605Z [API REST] error GET /account - account is not defined
+2023-06-21T02:06:52.303Z [API REST] error GET /account - account is not defined
+2023-06-21T02:06:59.085Z [API REST] info API Started !!! 
+2023-06-21T02:07:03.159Z [API REST] error GET /account - accounts is not defined
+2023-06-21T02:07:13.189Z [API REST] info API Started !!! 
+2023-06-21T02:07:17.674Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:07:43.241Z [API REST] info API Started !!! 
+2023-06-21T02:07:46.653Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:19:11.592Z [API REST] info API Started !!! 
+2023-06-21T02:19:32.377Z [API REST] info API Started !!! 
+2023-06-21T02:20:01.021Z [API REST] info API Started !!! 
+2023-06-21T02:20:06.111Z [API REST] error GET /account - accountRepositories.getIdAccounts is not a function
+2023-06-21T02:20:34.608Z [API REST] info API Started !!! 
+2023-06-21T02:20:36.340Z [API REST] info API Started !!! 
+2023-06-21T02:21:10.208Z [API REST] info API Started !!! 
+2023-06-21T02:21:14.042Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:21:41.973Z [API REST] info API Started !!! 
+2023-06-21T02:21:46.811Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:22:06.672Z [API REST] info API Started !!! 
+2023-06-21T02:22:11.638Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:22:33.505Z [API REST] info API Started !!! 
+2023-06-21T02:22:38.981Z [API REST] error GET /account - Cannot read property 'id' of undefined
+2023-06-21T02:23:51.192Z [API REST] info API Started !!! 
+2023-06-21T02:23:55.974Z [API REST] error GET /account - Cannot read property 'id' of undefined
+2023-06-21T02:27:38.025Z [API REST] info API Started !!! 
+2023-06-21T02:27:45.608Z [API REST] error GET /account - Maximum call stack size exceeded
+2023-06-21T02:28:49.691Z [API REST] info API Started !!! 
+2023-06-21T02:28:52.954Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:29:46.224Z [API REST] info API Started !!! 
+2023-06-21T02:29:52.604Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:30:15.263Z [API REST] info API Started !!! 
+2023-06-21T02:30:22.576Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:31:20.469Z [API REST] info API Started !!! 
+2023-06-21T02:31:23.668Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:31:30.699Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:33:11.503Z [API REST] info API Started !!! 
+2023-06-21T02:33:16.002Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:33:28.424Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:33:37.775Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:09.565Z [API REST] info API Started !!! 
+2023-06-21T02:37:14.328Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:22.464Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:27.829Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:33.762Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:41.946Z [API REST] error GET /account - loggers is not defined
+2023-06-21T02:37:56.392Z [API REST] info API Started !!! 
+2023-06-21T02:38:25.730Z [API REST] info API Started !!! 
+2023-06-21T02:38:40.703Z [API REST] error DELETE /account - Cannot read property 'filter' of undefined
+2023-06-21T02:39:12.750Z [API REST] info API Started !!! 
+2023-06-21T02:39:18.816Z [API REST] info API Started !!! 
+2023-06-21T02:39:23.416Z [API REST] error DELETE /account - Cannot read property 'filter' of undefined
+2023-06-21T02:39:32.861Z [API REST] info API Started !!! 
+2023-06-21T02:39:55.351Z [API REST] error DELETE /account - Cannot read property 'filter' of undefined
+2023-06-21T02:42:24.298Z [API REST] info API Started !!! 
+2023-06-21T02:42:31.000Z [API REST] error POST /account - Cannot read property 'push' of undefined
+2023-06-21T02:43:07.717Z [API REST] info API Started !!! 
+2023-06-21T02:43:17.478Z [API REST] error DELETE /account - loggers is not defined
+2023-06-21T02:43:23.827Z [API REST] error GET /account - loggers is not defined
+2023-06-21T03:03:56.088Z [API REST] info API Started !!! 
+2023-06-21T03:06:03.615Z [API REST] info API Started !!! 
+2023-06-21T03:06:12.128Z [API REST] info API Started !!! 
+2023-06-21T03:06:17.957Z [API REST] error PUT /account - Registro não encotrando
+2023-06-21T03:06:24.871Z [API REST] error PUT /account - loggers is not defined
+2023-06-21T03:06:31.213Z [API REST] error PATCH /account - loggers is not defined
+2023-06-21T03:06:36.048Z [API REST] error PATCH /account - loggers is not defined
+2023-06-21T03:06:41.789Z [API REST] error PUT /account - loggers is not defined
+2023-06-21T03:06:55.126Z [API REST] error GET /account - loggers is not defined
+2023-06-21T03:07:06.021Z [API REST] error DELETE /account - loggers is not defined
+2023-06-21T03:07:11.902Z [API REST] error GET /account - loggers is not defined

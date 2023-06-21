@@ -1,0 +1,40 @@
+POST http://localhost:3000/account HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Omarde costa",
+    "balance": 4300.50
+}
+
+###
+
+GET http://localhost:3000/account HTTP/1.1
+
+###
+
+GET http://localhost:3000/account/9 HTTP/1.1
+
+###
+
+PUT http://localhost:3000/account/ HTTP/1.1
+content-type: application/json
+
+{
+    "id":21,
+    "name": "thomas smith",
+    "balance": 10.23
+}
+
+###
+
+PATCH  http://localhost:3000/account/updateBalance HTTP/1.1
+content-type: application/json
+
+{
+    "id":18,
+    "balance": 4670.23
+}
+
+###
+
+DELETE http://localhost:3000/account/14 HTTP/1.1
